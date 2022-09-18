@@ -1,4 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap');
+@import url('http://fonts.cdnfonts.com/css/gotham');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
 
 *{
     padding: 0;
@@ -8,48 +12,160 @@
 
 .principal{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: center;
 }
 
 .cabecalho{
+    display: flex;
+    justify-content: center;
+    align-items: center;
     width: 100%;
-    height: 100px;
-    background-color: aqua;
+    height: 200px;
+    background-color: #3C4043;
+    border-radius: 0px 0px 0px 0px;
+    color: #F8F9FA;
 }
+
 
 .titulo{
     display: flex;
     justify-content: center;
     flex-direction: row;
     font-family: 'Playfair Display', serif;
+    font-size: 50px;
+    color: #F8F9FA;
     
+}
+
+.carros{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center; 
+    background-color: #3C4043;  
+
+}
+
+.informatica{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;   
+
+}
+
+.titulo2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Playfair Display', serif;
+    color: #F8F9FA;
+    background-color: #3C4043;
+    height: 50px;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.segmentos3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 50px;
+}
+
+.segmentos2{
+    padding: 0%;
+}
+
+.produto{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Playfair Display', serif;
+    color: #F8F9FA;
+    font-size: 15px;
+}
+
+.preco{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Playfair Display', serif;
+    color: #F8F9FA;
+    font-size: 25px;
+}
+
+.descricao{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Playfair Display', serif;
+    color: #F8F9FA;
+    font-size: 15px;
+
+}
+
+.cards{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
 }
 
 .conteudo{
     display: flex;
     flex-direction: row;
-    background-color: aquamarine;
-    width: 60%;
+    background-color: #202124;
     font-family: 'Playfair Display', serif;
 }
 
-.esquerda{
-    width:50%;
-    padding: 50px;
+.conteudo2{
+    display: flex;
+    flex-direction: row;
+    background-color: #202124;
+    font-family: 'Playfair Display', serif;
 }
 
-.direita{
-    width:50%;
+.conteudo3{
+    display: flex;
+    flex-direction: row;
+    background-color: #202124;
+    font-family: 'Playfair Display', serif;
+}
+
+.obj{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #F8F9FA;
     padding: 50px;
+    width: 200px;
 }
 
 
 .widgets{
     display: flex;
-    background-color: antiquewhite;
-    width: 20%px;
-    flex-direction: column;    
-    align-items: center;
-    justify-content: center;
+    flex-direction: row;
+    width: 50px;
+    height: 400px;
+    background-color: #3C4043;
 }
+
+.rodape{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 200px;
+    background-color: #3C4043; 
+    border-radius: 0px 0px 0px 0px;   
+    clip-path: polygon(0% 0%, 0% 100%, 100% 100%, 100% 0%, 98% 2%, 96% 0, 94% 2%, 92% 0, 90% 2%, 88% 0, 85% 1%, 83% 0, 81% 3%, 80% 0, 78% 3%, 76% 0, 75% 1%, 72% 0, 71% 0, 69% 2%, 68% 0, 66% 3%, 64% 0, 63% 2%, 61% 3%, 59% 0, 57% 2%, 55% 1%, 53% 0, 52% 1%, 50% 0, 48% 2%, 46% 0, 45% 2%, 42% 0, 40% 2%, 38% 0, 36% 1%, 34% 1%, 32% 0, 30% 1%, 28% 0, 25% 2%, 23% 1%, 21% 0, 18% 1%, 15% 0, 13% 1%, 8% 0, 6% 1%, 2% 0);}
+
+.direitos{
+    display: flex;
+    color: #F8F9FA;
+    font-family: 'Playfair Display', serif;
+    
+}
+

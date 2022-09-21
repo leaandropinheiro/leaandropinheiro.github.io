@@ -269,9 +269,13 @@
 }
 
 .fa{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
     padding: 15px;
-    font-size: 30px;
-    width: 10px;
+    font-size: 50px;
+    width: 20px;
     text-align: center;
     text-decoration: none;
     border-radius: 50%;
@@ -308,6 +312,12 @@
 }
 
 .fa-whatsapp {
+    background: #202124;
+    color: white;
+    border-radius: 10px;
+}
+
+.discord {
     background: #202124;
     color: white;
     border-radius: 10px;

@@ -103,7 +103,7 @@
 .contato-align{
     display: flex;
     justify-content: center;
-    flex-direction: row;
+    flex-direction: column;
     align-items: center;
 }
 .contato{
@@ -336,6 +336,12 @@
 }
 
 .fa-whatsapp {
+    background: #202124;
+    color: #fff;
+    border-radius: 10px;
+}
+
+.fa-reddit{
     background: #202124;
     color: #fff;
     border-radius: 10px;

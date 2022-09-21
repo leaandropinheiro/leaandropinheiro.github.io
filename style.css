@@ -29,6 +29,7 @@
     border-radius: 0px 0px 0px 0px;
     color: #202124;
     gap: 50px;
+    border-bottom: 1px solid #202124;
 }
 
 .cabeçalho-menu {
@@ -57,7 +58,7 @@
     align-items: center;
     padding: 0%;
     width: 100%;
-    background-color: #F8F9FA;
+    background-color: #E8EAED;
 }
 
 .para-onde-vamos{    
@@ -67,7 +68,7 @@
     align-items: center;
     padding: 0%;
     width: 100%;
-    background-color: #DADCE0;
+    background-color: #E8EAED;
     border-radius: 0px 0px 200px 0px;
     
 }
@@ -116,7 +117,7 @@
     align-items: center;
     padding: 0%;
     width: 100%;
-    background-color: #F8F9FA;
+    background-color: #E8EAED;
 }
 
 .contato-titulo{
@@ -258,6 +259,9 @@ rodape{
     border-radius: 0px 0px 0px 0px; 
       
 }
+.wave{
+    display: flex;
+}
 
 .icons{
     display: flex;
@@ -336,9 +340,9 @@ rodape{
 }
   
 .fa-instagram {
-  background: #202124;
-  color: #fff;
-  border-radius: 10px;
+    background: #202124;
+    color: #fff;
+    border-radius: 10px;
 }
 
 .fa-linkedin {

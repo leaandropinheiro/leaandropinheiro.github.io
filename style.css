@@ -204,14 +204,25 @@
     display: flex;
     flex-direction: row;
     justify-content: center;
-    align-items: center;
-    width: 100%;
+    width: 900px;
     height: 250px;
+    background-color: #fff;
+    border-radius: 10px;
+}
+.ww_75f56235f5ccf{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    height: 250px;
+    background-color: #fff;
+
 }
 
 .widgets2{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     padding: 0;
@@ -319,6 +330,8 @@
     color: #fff;
     border-radius: 10px;
 }
+
+
 
 
 

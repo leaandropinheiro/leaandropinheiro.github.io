@@ -1,0 +1,85 @@
+<div class="item">
+                    <div class="mes">
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th colspan="7" class="titulo-mes">fevereiro</th>
+                                </tr>
+    
+                                <tr>                
+                                    <th style="background-color: #8dbe48;">D</th>
+                                    <th style="background-color: #8dbe48;">S</th>
+                                    <th style="background-color: #8dbe48;">T</th>
+                                    <th style="background-color: #8dbe48;">Q</th>
+                                    <th style="background-color: #8dbe48;">Q</th>
+                                    <th style="background-color: #8dbe48;">S</th>
+                                    <th style="background-color: #8dbe48;">S</th>
+                                </tr>
+                            </thead>
+                      
+                            <tbody>
+                                <tr>
+                                    <td></td>
+                                    <td></td>
+                                    <td>1</td>
+                                    <td style="background-color: #ffff3f;">2</td>
+                                    <td>3</td>
+                                    <td>4</td>
+                                    <td><b>5</b></td>
+                                </tr>
+                                <tr></tr>
+                                <tr>
+                                    <td ><b>6</b></td>
+                                    <td>7</td>
+                                    <td>8</td>
+                                    <td>9</td>
+                                    <td>10</td>
+                                    <td>11</td>
+                                    <td>12</td>
+                                </tr>
+                                <tr>
+                                    <td><b>9</b></td>
+                                    <td>13</td>
+                                    <td>14</td>
+                                    <td>15</td>
+                                    <td>16</td>
+                                    <td>17</td>
+                                    <td>18</td>
+                                </tr>
+                                <tr>
+                                    <td><b>19</b></td>
+                                    <td>20</td>
+                                    <td>21</td>
+                                    <td>22</td>
+                                    <td>23</td>
+                                    <td>24</td>
+                                    <td>25</td>
+                                </tr>
+                                <tr>
+                                    <td><b>23</b></td>
+                                    <td>26</td>
+                                    <td>27</td>
+                                    <td>28</td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                </tr>
+                                
+                            </tbody>
+                        </table>
+ 
+                    </div>
+                    <div class="avisos">
+                        <p class="texto-avisos"><b>2</b> - Término das férias para os professores,
+                            tutores e preceptores que gozaram de 30 dias
+                            de férias</p>
+                        <p class="texto-avisos"><b>2</b> - Posse dos novos coordenadores de curso</p>
+                        <p class="texto-avisos"><b>4</b> - Colação de grau – Odontologia (turma de
+                        2021)</p>
+                        <p class="texto-avisos"><b>7 a 11</b> - Profissionalização Docente Intensiva</p>
+                        <p class="texto-avisos"><b>11</b> - Colação de grau – Direito Joinville (turmas
+                            de 2020-2 e 2021-2)</p>
+                        <p class="texto-avisos"><b>14 a 18</b> - Planejamento pedagógico</p>
+                        
+                   </div>                                       
+                </div>

@@ -69,6 +69,7 @@ table, th, td{
   flex-direction: row;
   justify-content: left;
   margin-top: 100px;
+  margin-bottom: 100px;
   max-width: 70%;
 }
 
@@ -83,4 +84,23 @@ table, th, td{
 .texto-avisos{
   font-size: 15px;
   padding-top: 10px;
+}
+
+.rodape{
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  align-items: center;
+  width: 100%;
+  height: 100px;
+  background-color: #8dbe48;
+  margin-left: 0;
+}
+
+.rodape-item{
+
+}
+
+.rodape-texto{
+  color: #fff;
 }
